@@ -1,0 +1,254 @@
+[
+  {
+    "_id": 101,
+    "recipe_id": 2,
+    "recipe": "Chicken Korma",
+    "ingredients": [
+      "Chicken",
+      "Yogurt",
+      "Onions",
+      "Ginger-garlic paste",
+      "Cashew nuts"
+    ],
+    "cooking_method": "Marinate chicken in yogurt and spices. Sauté onions, ginger-garlic paste, and cashew nuts. Add chicken and cook until tender.",
+    "rating": 4.5
+  },
+  {
+    "_id": 102,
+    "recipe_id": 4,
+    "recipe": "Prawn Curry",
+    "ingredients": [
+      "Prawns",
+      "Coconut milk",
+      "Tomatoes",
+      "Turmeric powder",
+      "Curry leaves"
+    ],
+    "cooking_method": "Sauté tomatoes, turmeric powder, and curry leaves. Add prawns and coconut milk. Simmer until prawns are cooked.",
+    "rating": 4.2
+  },
+  {
+    "_id": 103,
+    "recipe_id": 5,
+    "recipe": "Vegetable Biryani",
+    "ingredients": [
+      "Basmati rice",
+      "Mixed vegetables",
+      "Onions",
+      "Ghee",
+      "Spices"
+    ],
+    "cooking_method": "Sauté onions and spices. Add mixed vegetables and rice. Cook until rice is fluffy and vegetables are tender.",
+    "rating": 4.6
+  },
+  {
+    "_id": 104,
+    "recipe_id": 2,
+    "recipe": "Mutton Rezala",
+    "ingredients": [
+      "Mutton",
+      "Yogurt",
+      "Cashew nuts",
+      "Onion paste",
+      "Saffron strands"
+    ],
+    "cooking_method": "Marinate mutton in yogurt and spices. Sauté onion paste and cashew nuts. Add mutton and cook until tender. Garnish with saffron strands.",
+    "rating": 4.8
+  },
+  {
+    "_id": 105,
+    "recipe_id": 4,
+    "recipe": "Chingri Malai Curry",
+    "ingredients": [
+      "Prawns",
+      "Coconut milk",
+      "Onions",
+      "Ginger-garlic paste",
+      "Turmeric powder"
+    ],
+    "cooking_method": "Sauté onions, ginger-garlic paste, and turmeric powder. Add prawns and coconut milk. Simmer until prawns are cooked.",
+    "rating": 4.4
+  },
+  {
+    "_id": 106,
+    "recipe_id": 5,
+    "recipe": "Beef Bhuna",
+    "ingredients": [
+      "Beef",
+      "Onions",
+      "Tomatoes",
+      "Ginger-garlic paste",
+      "Spices"
+    ],
+    "cooking_method": "Sauté onions, ginger-garlic paste, and spices. Add beef and tomatoes. Cook until beef is tender and the mixture thickens.",
+    "rating": 4.7
+  },
+  {
+    "_id": 107,
+    "recipe_id": 6,
+    "recipe": "Shorshe Maach",
+    "ingredients": [
+      "Fish",
+      "Mustard seeds",
+      "Green chilies",
+      "Turmeric powder",
+      "Mustard oil"
+    ],
+    "cooking_method": "Grind mustard seeds and green chilies. Marinate fish with turmeric and salt. Fry fish in mustard oil, add mustard paste, and cook until the sauce thickens.",
+    "rating": 4.8
+  },
+  {
+    "_id": 108,
+    "recipe_id": 1,
+    "recipe": "Aloo Posto",
+    "ingredients": [
+      "Potatoes",
+      "Poppy seeds",
+      "Green chilies",
+      "Turmeric powder",
+      "Mustard oil"
+    ],
+    "cooking_method": "Grind poppy seeds and green chilies. Sauté potatoes, add the poppy seed paste, turmeric powder, and cook until the potatoes are tender.",
+    "rating": 4.3
+  },
+  {
+    "_id": 109,
+    "recipe_id": 6,
+    "recipe": "Shami Kebab",
+    "ingredients": [
+      "Minced meat",
+      "Chickpeas",
+      "Onions",
+      "Ginger-garlic paste",
+      "Spices"
+    ],
+    "cooking_method": "Boil minced meat and chickpeas. Grind with onions, ginger-garlic paste, and spices. Shape into patties and shallow fry.",
+    "rating": 4.5
+  },
+  {
+    "_id": 110,
+    "recipe_id": 1,
+    "recipe": "Patla Khichuri",
+    "ingredients": [
+      "Rice",
+      "Split yellow lentils",
+      "Onions",
+      "Cumin seeds",
+      "Ghee"
+    ],
+    "cooking_method": "Sauté onions and cumin seeds. Add rice, lentils, and water. Cook until the khichuri reaches a soupy consistency.",
+    "rating": 4.2
+  },
+  {
+    "_id": 111,
+    "recipe_id": 5,
+    "recipe": "Shorshe Ilish",
+    "ingredients": [
+      "Hilsa fish",
+      "Mustard seeds",
+      "Green chilies",
+      "Turmeric powder",
+      "Mustard oil"
+    ],
+    "cooking_method": "Grind mustard seeds and green chilies. Marinate hilsa fish with turmeric and salt. Fry fish in mustard oil, add mustard paste, and cook until the sauce thickens.",
+    "rating": 4.9
+  },
+  {
+    "_id": 112,
+    "recipe_id": 6,
+    "recipe": "Mutton Biryani",
+    "ingredients": [
+      "Mutton",
+      "Basmati rice",
+      "Onions",
+      "Ghee",
+      "Spices"
+    ],
+    "cooking_method": "Sauté onions and spices. Add mutton and cook until tender. Layer cooked rice and mutton, and steam until the flavors meld together.",
+    "rating": 4.7
+  },
+  {
+    "_id": 113,
+    "recipe_id": 3,
+    "recipe": "Bhapa Pitha",
+    "ingredients": [
+      "Rice flour",
+      "Coconut",
+      "Jaggery",
+      "Cardamom powder",
+      "Banana leaves"
+    ],
+    "cooking_method": "Prepare a batter with rice flour, coconut, jaggery, and cardamom powder. Steam the batter in banana leaves until cooked.",
+    "rating": 4.5
+  },
+  {
+    "_id": 114,
+    "recipe_id": 2,
+    "recipe": "Mishti Doi",
+    "ingredients": [
+      "Milk",
+      "Yogurt",
+      "Sugar",
+      "Cardamom powder",
+      "Saffron strands"
+    ],
+    "cooking_method": "Reduce milk and mix with yogurt, sugar, cardamom powder, and saffron strands. Set aside to ferment and sweeten.",
+    "rating": 4.8
+  },
+  {
+    "_id": 115,
+    "recipe_id": 3,
+    "recipe": "Rui Macher Jhol",
+    "ingredients": [
+      "Rohu fish",
+      "Potatoes",
+      "Tomatoes",
+      "Green chilies",
+      "Turmeric powder"
+    ],
+    "cooking_method": "Sauté potatoes, tomatoes, green chilies, and turmeric powder. Add rohu fish and water. Simmer until the fish is cooked and the gravy thickens.",
+    "rating": 4.6
+  },
+  {
+    "_id": 116,
+    "recipe_id": 4,
+    "recipe": "Kosha Mangsho",
+    "ingredients": [
+      "Mutton",
+      "Onions",
+      "Tomatoes",
+      "Ginger-garlic paste",
+      "Spices"
+    ],
+    "cooking_method": "Sauté onions, ginger-garlic paste, and spices. Add mutton and tomatoes. Cook until mutton is tender and the gravy thickens.",
+    "rating": 4.9
+  },
+  {
+    "_id": 117,
+    "recipe_id": 3,
+    "recipe": "Chitol Maacher Muitha",
+    "ingredients": [
+      "Chitol fish",
+      "Bengal gram",
+      "Ginger",
+      "Cumin powder",
+      "Mustard oil"
+    ],
+    "cooking_method": "Boil Bengal gram and grind with chitol fish, ginger, and cumin powder. Shape into dumplings and fry until golden brown. Serve with mustard oil drizzle.",
+    "rating": 4.7
+  },
+  {
+    "_id": 118,
+    "recipe_id": 1,
+    "recipe": "Pithe-Puli",
+    "ingredients": [
+      "Rice flour",
+      "Jaggery",
+      "Coconut",
+      "Cardamom powder",
+      "Sesame seeds"
+    ],
+    "cooking_method": "Prepare a dough with rice flour and water. Stuff with jaggery, coconut, and cardamom powder. Shape into dumplings or pancakes and cook on a griddle. Garnish with sesame seeds.",
+    "rating": 4.6
+  }
+]
