@@ -3,11 +3,23 @@ const app = express()
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 const chefCategories = require('./data/chefFood.json');
+const individualChef = require('./data/recepyDetails.json')
 app.use(cors());
 app.get('/chefCategories', (req, res) => {
     // console.log(categories);
     res.send(chefCategories);
 })
+
+
+
+app.get('/chefCategories/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const categoryRecipe = individualChef.filter(n => parseInt(n.recipe_id) === id);
+    res.send(categoryRecipe)
+
+
+})
+
 
 app.get('/', (req, res) => {
     res.send('chef is running')
