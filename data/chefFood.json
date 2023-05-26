@@ -2,8 +2,8 @@
   {
     "id": 1,
     "chef_name": "Rahima Begum",
-    "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2017/05/Rashedul.jpg",
-    "description": "Rahima Begum is a renowned Bangladeshi chef specializing in traditional Bengali cuisine. With her extensive knowledge of spices and flavors, she creates authentic dishes that reflect the rich culinary heritage of Bangladesh. With over 20 years of experience, Rahima has perfected her craft and is known for her expertise in preparing mouthwatering Biryanis, Shorshe Ilish (Hilsa fish in mustard sauce), and Mishti Doi (sweet yogurt).",
+    "chef_picture": "https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/03/04/Pictures/_ea51e8da-e1f0-11e5-9948-13623a58218c.jpg",
+    "description": "Rahima Begum is a renowned Bangladeshi chef specializing in traditional Bengali cuisine. With her extensive knowledge of spices and flavors, she creates authentic dishes that reflect the rich culinary heritage of Bangladesh. With over 20 years of experience, Rahima has perfected her craft and is known for her expertise in preparing mouthwatering Aloo Posto,  Pithe-Puli, and Mishti Doi (sweet yogurt).",
     "number_of_recipes": 250,
     "like": 5000,
     "years_of_experience": 20
@@ -12,7 +12,7 @@
     "id": 2,
     "chef_name": "Kamal Ahmed",
     "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2017/05/Rashedul.jpg",
-    "description": "Kamal Ahmed is a talented Bangladeshi chef who specializes in street food. His passion for exploring the vibrant flavors of Bangladeshi street cuisine has led him to create unique and delicious recipes. Kamal is known for his popular dishes like Fuchka (pani puri), Jhalmuri (spicy puffed rice), and Chotpoti (chickpea chaat). With a knack for blending spices and creating authentic street food experiences, Kamal has gained a loyal following.",
+    "description": "Kamal Ahmed is a talented Bangladeshi chef who specializes in street food. His passion for exploring the vibrant flavors of Bangladeshi street cuisine has led him to create unique and delicious recipes. Kamal is known for his popular dishes like Mishti Doi, Mutton Rezala, and Chicken Korma. With a knack for blending spices and creating authentic street food experiences, Kamal has gained a loyal following.",
     "number_of_recipes": 150,
     "like": 3000,
     "years_of_experience": 12
@@ -20,8 +20,8 @@
   {
     "id": 3,
     "chef_name": "Sadia Rahman",
-    "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2017/05/Rashedul.jpg",
-    "description": "Sadia Rahman is a talented Bangladeshi chef with a passion for creating modern interpretations of traditional dishes. She loves experimenting with flavors and presentation, resulting in unique and visually stunning creations. Sadia's specialties include Roshogolla cheesecake, Dhakai Paratha (layered flatbread), and Prawn Malai Curry. With her innovative approach to Bangladeshi cuisine, Sadia has become a rising star in the culinary world.",
+    "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-chef-female-cook-table-with-lot-vegetables_613910-735.jpg",
+    "description": "Sadia Rahman is a talented Bangladeshi chef with a passion for creating modern interpretations of traditional dishes. She loves experimenting with flavors and presentation, resulting in unique and visually stunning creations. Sadia's specialties include Bhapa Pitha,Rui Macher Jhol, and Chitol Maacher Muitha. With her innovative approach to Bangladeshi cuisine, Sadia has become a rising star in the culinary world.",
     "number_of_recipes": 200,
     "like": 4500,
     "years_of_experience": 8
@@ -29,8 +29,8 @@
   {
     "id": 4,
     "chef_name": "Abdul Hassan",
-    "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2017/05/Rashedul.jpg",
-    "description": "Abdul Hassan is a highly skilled Bangladeshi chef known for his mastery of traditional Mughlai cuisine. He specializes in rich and flavorful dishes like Murgh Musallam (whole roasted chicken), Haleem (meat and lentil stew), and Korma. With over 15 years of experience in renowned restaurants, Abdul brings the authentic flavors of Mughlai cuisine to his creations, delighting food lovers with his culinary expertise.",
+    "chef_picture": "https://cdn.kitsune.tools/v1/5c7381cccbeade0001a462c8/head_chef-5c0d37650c7bda0001b68eea.jpg",
+    "description": "Abdul Hassan is a highly skilled Bangladeshi chef known for his mastery of traditional Mughlai cuisine. He specializes in rich and flavorful dishes like Kosha Mangsho, Prawn Curry, Chingri Malai Curry. With over 15 years of experience in renowned restaurants, Abdul brings the authentic flavors of Mughlai cuisine to his creations, delighting food lovers with his culinary expertise.",
     "number_of_recipes": 180,
     "like": 4000,
     "years_of_experience": 15
@@ -38,8 +38,8 @@
   {
     "id": 5,
     "chef_name": "Nasreen Khan",
-    "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2017/05/Rashedul.jpg",
-    "description": "Nasreen Khan is a talented Bangladeshi chef specializing in regional dishes from different parts of Bangladesh. With a deep understanding of local ingredients and cooking techniques, Nasreen creates authentic recipes that showcase the diverse culinary heritage of the country. Her specialties include Shorshe Pabda (fish in mustard sauce), Sobji Paturi (grilled vegetable parcels), and Chingri Bhapa (steamed prawns). With a passion for preserving traditional flavors, Nasreen takes her diners on a gastronomic journey through Bangladesh.",
+    "chef_picture": "https://www.indiafoodnetwork.in/wp-content/uploads/2018/02/Ananya-Banerjee-Copy.jpg",
+    "description": "Nasreen Khan is a talented Bangladeshi chef specializing in regional dishes from different parts of Bangladesh. With a deep understanding of local ingredients and cooking techniques, Nasreen creates authentic recipes that showcase the diverse culinary heritage of the country. Her specialties include Vegetable Biryani, Beef Bhuna, and Shorshe Ilish. With a passion for preserving traditional flavors, Nasreen takes her diners on a gastronomic journey through Bangladesh.",
     "number_of_recipes": 220,
     "like": 3800,
     "years_of_experience": 10
@@ -47,8 +47,8 @@
   {
     "id": 6,
     "chef_name": "Aminul Islam",
-    "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2017/05/Rashedul.jpg",
-    "description": "Aminul Islam is a talented Bangladeshi chef who specializes in fusion cuisine, blending elements of Bangladeshi and international flavors. With a creative approach to cooking, Aminul combines traditional ingredients and techniques with innovative ideas to create unique and exciting dishes. His signature creations include Duck Vindaloo, Shrimp Biryani with Mango Salsa, and Rasmalai Tiramisu. Aminul's culinary creations reflect his passion for culinary exploration and his love for experimenting with flavors.",
+    "chef_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ahmed_Hossain_Chef_Dhaka_Regency.jpg/1200px-Ahmed_Hossain_Chef_Dhaka_Regency.jpg",
+    "description": "Aminul Islam is a talented Bangladeshi chef who specializes in fusion cuisine, blending elements of Bangladeshi and international flavors. With a creative approach to cooking, Aminul combines traditional ingredients and techniques with innovative ideas to create unique and exciting dishes. His signature creations include Shorshe Maach, Shami Kebab with Mango Salsa, and Mutton Biryani. Aminul's culinary creations reflect his passion for culinary exploration and his love for experimenting with flavors.",
     "number_of_recipes": 190,
     "like": 4200,
     "years_of_experience": 12
