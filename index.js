@@ -12,12 +12,15 @@ app.get('/chefCategories', (req, res) => {
 app.get('/chefCategories/:id', (req, res) => {
     const id = parseInt(req.params.id);
     const categoryRecipe = individualChef.filter(n => parseInt(n.recipe_id) === id);
-    const chef=chefCategories.find(n =>parseInt(n.id) === id);
-    res.send({recipe:categoryRecipe,chef})
+    const chef = chefCategories.find(n => parseInt(n.id) === id);
+    res.send({ recipe: categoryRecipe, chef })
 
 
 })
 
+app.get('/', (req, res) => {
+    res.send('chef hut is running')
+})
 
 
 app.listen(port, () => {
